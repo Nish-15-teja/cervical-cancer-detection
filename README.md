@@ -93,6 +93,7 @@ Predict cell type
 Display prediction confidence
 Visualize Grad-CAM heatmaps
 Compare model outputs
+
 Repository Structure
 cervical-cancer-detection/
 │── app.py
@@ -102,9 +103,4 @@ cervical-cancer-detection/
 │── models/
 │── outputs/
 │── images/
-Future Enhancements
-Multi-model ensemble learning
-Support for additional cervical cancer datasets
-Cloud deployment
-Real-time clinical decision support
-Integration with Large Language Models (LLMs) for automated report generation
+
